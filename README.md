@@ -6,7 +6,6 @@ EduAid is one such project currently available in the form of a browser extensio
 
 ## Installation and Setup
 
-### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/AOSSIE-Org/EduAid.git
