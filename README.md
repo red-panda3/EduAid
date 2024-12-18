@@ -4,7 +4,6 @@ Online learning has taken the front seat in the post-pandemic age. With the adve
 
 EduAid is one such project currently available in the form of a browser extension.
 
-## Installation and Setup
 
 
 ```bash
